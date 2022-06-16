@@ -1,0 +1,16 @@
+[
+    {
+        "id": "2324", 
+        "title":"Atomic Habits",
+        "imgUrl":"https://pbs.twimg.com/media/EHcntL1UYAAnk3G.jpg",
+        "description":"Self Development Book\r\n",
+        "price":"1250000"
+    },
+    {
+        "id": "2325", 
+        "title":"Rich Dad Poor Dad",
+        "imgUrl":"https://ebooks.gramedia.com/ebook-covers/33978/thumb_image_normal/ID_GPU2016MTH08RDPDR.jpg",
+        "description":"Great Book",
+        "price":"150000"
+    }
+]
