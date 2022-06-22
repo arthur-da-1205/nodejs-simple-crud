@@ -1,1 +1,16 @@
-[{"id":"0.20591633380597796","title":"6 Thinking Hats","imgUrl":"https://images-na.ssl-images-amazon.com/images/I/81D5HWsrqjL.jpg","description":"Great\r\n","price":"1350000"},{"id":"0.3309256900169968","title":"Atomic Habits","imgUrl":"https://jamesclear.com/wp-content/uploads/2018/09/AtomicHabits_1book.png","description":"Great","price":"1250000"}]
+[
+  {
+    "id": "0.20591633380597796",
+    "title": "6 Thinking Hats",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/81D5HWsrqjL.jpg",
+    "description": "Great\r\n",
+    "price": "1350000"
+  },
+  {
+    "id": "0.3309256900169968",
+    "title": "Atomic Habits",
+    "imgUrl": "https://jamesclear.com/wp-content/uploads/2018/09/AtomicHabits_1book.png",
+    "description": "Great",
+    "price": "1250000"
+  }
+]
